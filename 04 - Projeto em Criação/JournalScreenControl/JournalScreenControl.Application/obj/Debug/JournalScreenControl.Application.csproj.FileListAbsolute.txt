@@ -1,0 +1,28 @@
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Application.dll
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Application.pdb
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Core.dll
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Core.pdb
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Application\obj\Debug\JournalScreenControl.Application.csprojResolveAssemblyReference.cache
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Application\obj\Debug\JournalScreenControl.Application.csproj.CoreCompileInputs.cache
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Application\obj\Debug\JournalScreenControl.Application.dll
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Application\obj\Debug\JournalScreenControl.Application.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Application.dll
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Application.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Core.dll
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Core.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Application\obj\Debug\JournalScreenControl.Application.csprojResolveAssemblyReference.cache
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Application\obj\Debug\JournalScreenControl.Application.dll
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Application\obj\Debug\JournalScreenControl.Application.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Data.dll
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Data.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Application.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Application.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Core.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Data.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Core.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Application\bin\Debug\JournalScreenControl.Data.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Application\obj\Debug\JournalScreenControl.Application.csprojAssemblyReference.cache
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Application\obj\Debug\JournalScreenControl.Application.csproj.CoreCompileInputs.cache
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Application\obj\Debug\JournalScreenControl.Application.csproj.CopyComplete
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Application\obj\Debug\JournalScreenControl.Application.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Application\obj\Debug\JournalScreenControl.Application.pdb

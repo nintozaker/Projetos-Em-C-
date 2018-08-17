@@ -1,0 +1,50 @@
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.UI.exe.config
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.UI.exe
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.UI.pdb
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.csprojResolveAssemblyReference.cache
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.Properties.Resources.resources
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.csproj.GenerateResource.Cache
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.csproj.CoreCompileInputs.cache
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.exe
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.pdb
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.frmMain.resources
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Application.dll
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Core.dll
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Navigation.dll
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Application.pdb
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Core.pdb
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Navigation.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.UI.exe.config
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.exe
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.UI.exe
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.UI.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Application.dll
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Core.dll
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Navigation.dll
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Application.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Core.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Navigation.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.csprojResolveAssemblyReference.cache
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.frmMain.resources
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.Properties.Resources.resources
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.csproj.GenerateResource.Cache
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Data.dll
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Data.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.UI.exe.config
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.UI.exe
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.UI.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Application.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Core.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Navigation.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Data.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Application.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Core.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Navigation.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\bin\Debug\JournalScreenControl.Data.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.frmMain.resources
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.Properties.Resources.resources
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.csproj.GenerateResource.cache
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.exe
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.UI\obj\Debug\JournalScreenControl.UI.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\u0167871\source\repos\Console_SuspeitosDelete\Console_SuspeitosDelete\bin\Debug\Console_SuspeitosDelete.exe.config
+c:\users\u0167871\source\repos\Console_SuspeitosDelete\Console_SuspeitosDelete\bin\Debug\Console_SuspeitosDelete.exe
+c:\users\u0167871\source\repos\Console_SuspeitosDelete\Console_SuspeitosDelete\bin\Debug\Console_SuspeitosDelete.pdb
+c:\users\u0167871\source\repos\Console_SuspeitosDelete\Console_SuspeitosDelete\obj\Debug\Console_SuspeitosDelete.csproj.CoreCompileInputs.cache
+c:\users\u0167871\source\repos\Console_SuspeitosDelete\Console_SuspeitosDelete\obj\Debug\Console_SuspeitosDelete.exe
+c:\users\u0167871\source\repos\Console_SuspeitosDelete\Console_SuspeitosDelete\obj\Debug\Console_SuspeitosDelete.pdb

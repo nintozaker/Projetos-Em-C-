@@ -1,0 +1,27 @@
+c:\users\u0167871\documents\visual studio 2015\Projects\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\bin\Debug\AtalhosAreaDeTrabalho.exe.config
+c:\users\u0167871\documents\visual studio 2015\Projects\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\bin\Debug\AtalhosAreaDeTrabalho.exe
+c:\users\u0167871\documents\visual studio 2015\Projects\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\bin\Debug\AtalhosAreaDeTrabalho.pdb
+c:\users\u0167871\documents\visual studio 2015\Projects\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.Form1.resources
+c:\users\u0167871\documents\visual studio 2015\Projects\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.Properties.Resources.resources
+c:\users\u0167871\documents\visual studio 2015\Projects\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.csproj.GenerateResource.Cache
+c:\users\u0167871\documents\visual studio 2015\Projects\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.exe
+c:\users\u0167871\documents\visual studio 2015\Projects\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.pdb
+D:\CRIAÇÕES DE PROGRAMAS\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\bin\Debug\AtalhosAreaDeTrabalho.exe.config
+D:\CRIAÇÕES DE PROGRAMAS\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\bin\Debug\AtalhosAreaDeTrabalho.exe
+D:\CRIAÇÕES DE PROGRAMAS\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\bin\Debug\AtalhosAreaDeTrabalho.pdb
+D:\CRIAÇÕES DE PROGRAMAS\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.Form1.resources
+D:\CRIAÇÕES DE PROGRAMAS\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.Properties.Resources.resources
+D:\CRIAÇÕES DE PROGRAMAS\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.csproj.GenerateResource.cache
+D:\CRIAÇÕES DE PROGRAMAS\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.csproj.CoreCompileInputs.cache
+D:\CRIAÇÕES DE PROGRAMAS\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.exe
+D:\CRIAÇÕES DE PROGRAMAS\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\bin\Debug\AtalhosAreaDeTrabalho.exe.config
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\bin\Debug\AtalhosAreaDeTrabalho.exe
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\bin\Debug\AtalhosAreaDeTrabalho.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.csprojAssemblyReference.cache
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.Form1.resources
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.Properties.Resources.resources
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.csproj.GenerateResource.cache
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.csproj.CoreCompileInputs.cache
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.exe
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\AtalhosAreaDeTrabalho\AtalhosAreaDeTrabalho\obj\Debug\AtalhosAreaDeTrabalho.pdb

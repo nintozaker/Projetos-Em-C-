@@ -1,0 +1,21 @@
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Navigation\bin\Debug\JournalScreenControl.Navigation.dll
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Navigation\bin\Debug\JournalScreenControl.Navigation.pdb
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\JournalScreenControl.Navigation.csprojResolveAssemblyReference.cache
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\Interop.SHDocVw.dll
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\JournalScreenControl.Navigation.csproj.ResolveComReference.cache
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\JournalScreenControl.Navigation.csproj.CoreCompileInputs.cache
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\JournalScreenControl.Navigation.dll
+D:\JournalScreenControl\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\JournalScreenControl.Navigation.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Navigation\bin\Debug\JournalScreenControl.Navigation.dll
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Navigation\bin\Debug\JournalScreenControl.Navigation.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\Interop.SHDocVw.dll
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\JournalScreenControl.Navigation.csproj.ResolveComReference.cache
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\JournalScreenControl.Navigation.dll
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\JournalScreenControl.Navigation.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Navigation\bin\Debug\JournalScreenControl.Navigation.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Navigation\bin\Debug\JournalScreenControl.Navigation.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\Interop.SHDocVw.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\JournalScreenControl.Navigation.csproj.ResolveComReference.cache
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\JournalScreenControl.Navigation.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\JournalScreenControl.Navigation.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\04 - Projeto em Criação\JournalScreenControl\JournalScreenControl.Navigation\obj\Debug\JournalScreenControl.Navigation.csprojResolveAssemblyReference.cache
