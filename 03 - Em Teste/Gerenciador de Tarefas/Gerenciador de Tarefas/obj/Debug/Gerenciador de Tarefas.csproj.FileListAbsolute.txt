@@ -1,0 +1,20 @@
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.exe.config
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.exe
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.pdb
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.dll
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\DocumentFormat.OpenXml.dll
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ExcelNumberFormat.dll
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\FastMember.Signed.dll
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\System.IO.Packaging.dll
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.pdb
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.xml
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\DocumentFormat.OpenXml.xml
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ExcelNumberFormat.xml
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador_de_Tarefas.Form1.resources
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador_de_Tarefas.Properties.Resources.resources
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.csproj.GenerateResource.Cache
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.csproj.CoreCompileInputs.cache
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.exe
+c:\users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.pdb
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.csprojResolveAssemblyReference.cache

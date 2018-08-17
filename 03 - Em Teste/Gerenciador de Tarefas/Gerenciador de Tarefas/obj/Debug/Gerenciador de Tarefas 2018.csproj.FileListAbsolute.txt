@@ -1,0 +1,82 @@
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador_de_Tarefas.Form1.resources
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador_de_Tarefas.Properties.Resources.resources
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csproj.GenerateResource.Cache
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csproj.CoreCompileInputs.cache
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.exe.config
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.exe
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.pdb
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.dll
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\FastMember.Signed.dll
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\System.IO.Packaging.dll
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.pdb
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.xml
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.exe
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.pdb
+C:\Users\ninho\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csprojResolveAssemblyReference.cache
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.exe.config
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.exe
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.pdb
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.dll
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\FastMember.Signed.dll
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\System.IO.Packaging.dll
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.pdb
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.xml
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador_de_Tarefas.Form1.resources
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador_de_Tarefas.Properties.Resources.resources
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csproj.GenerateResource.cache
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csproj.CoreCompileInputs.cache
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csproj.CopyComplete
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.exe
+C:\Users\Ronaldo Junior\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.pdb
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.exe.config
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.exe
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.pdb
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.dll
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\DocumentFormat.OpenXml.dll
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ExcelNumberFormat.dll
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\FastMember.Signed.dll
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\System.IO.Packaging.dll
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.pdb
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.xml
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\DocumentFormat.OpenXml.xml
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ExcelNumberFormat.xml
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csprojAssemblyReference.cache
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador_de_Tarefas.Form1.resources
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador_de_Tarefas.Properties.Resources.resources
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csproj.GenerateResource.cache
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csproj.CoreCompileInputs.cache
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csproj.CopyComplete
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.exe
+D:\CRIAÇÕES DE PROGRAMAS\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.exe.config
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.exe
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\DocumentFormat.OpenXml.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ExcelNumberFormat.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\FastMember.Signed.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\System.IO.Packaging.dll
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ClosedXML.xml
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\DocumentFormat.OpenXml.xml
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\ExcelNumberFormat.xml
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csprojAssemblyReference.cache
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador_de_Tarefas.Form1.resources
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador_de_Tarefas.Properties.Resources.resources
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csproj.GenerateResource.cache
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csproj.CoreCompileInputs.cache
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas 2018.csproj.CopyComplete
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.exe
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.pdb

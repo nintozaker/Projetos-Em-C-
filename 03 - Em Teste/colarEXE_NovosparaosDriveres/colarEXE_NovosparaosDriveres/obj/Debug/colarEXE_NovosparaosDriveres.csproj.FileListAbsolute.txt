@@ -1,0 +1,6 @@
+c:\users\u0167871\documents\visual studio 2015\Projects\colarEXE_NovosparaosDriveres\colarEXE_NovosparaosDriveres\bin\Debug\colarEXE_NovosparaosDriveres.exe.config
+c:\users\u0167871\documents\visual studio 2015\Projects\colarEXE_NovosparaosDriveres\colarEXE_NovosparaosDriveres\bin\Debug\colarEXE_NovosparaosDriveres.exe
+c:\users\u0167871\documents\visual studio 2015\Projects\colarEXE_NovosparaosDriveres\colarEXE_NovosparaosDriveres\bin\Debug\colarEXE_NovosparaosDriveres.pdb
+c:\users\u0167871\documents\visual studio 2015\Projects\colarEXE_NovosparaosDriveres\colarEXE_NovosparaosDriveres\obj\Debug\colarEXE_NovosparaosDriveres.exe
+c:\users\u0167871\documents\visual studio 2015\Projects\colarEXE_NovosparaosDriveres\colarEXE_NovosparaosDriveres\obj\Debug\colarEXE_NovosparaosDriveres.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\colarEXE_NovosparaosDriveres\colarEXE_NovosparaosDriveres\obj\Debug\colarEXE_NovosparaosDriveres.csprojResolveAssemblyReference.cache

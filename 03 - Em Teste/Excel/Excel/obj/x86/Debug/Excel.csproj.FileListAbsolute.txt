@@ -1,0 +1,27 @@
+C:\_Projetos_Net\__C#\Excel0324_C#\Excel\Excel\bin\Debug\Excel.exe
+C:\_Projetos_Net\__C#\Excel0324_C#\Excel\Excel\bin\Debug\Excel.pdb
+C:\_Projetos_Net\__C#\Excel0324_C#\Excel\Excel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\_Projetos_Net\__C#\Excel0324_C#\Excel\Excel\obj\x86\Debug\Excel.FormExcel.resources
+C:\_Projetos_Net\__C#\Excel0324_C#\Excel\Excel\obj\x86\Debug\Excel.Properties.Resources.resources
+C:\_Projetos_Net\__C#\Excel0324_C#\Excel\Excel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\_Projetos_Net\__C#\Excel0324_C#\Excel\Excel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\_Projetos_Net\__C#\Excel0324_C#\Excel\Excel\obj\x86\Debug\Excel.exe
+C:\_Projetos_Net\__C#\Excel0324_C#\Excel\Excel\obj\x86\Debug\Excel.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\Excel\Excel\obj\x86\Debug\Excel.exe
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\Excel\Excel\obj\x86\Debug\Excel.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\Excel\Excel\obj\x86\Debug\Excel.FormExcel.resources
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\Excel\Excel\obj\x86\Debug\Excel.Properties.Resources.resources
+C:\Users\u0167871\Documents\Visual Studio 2015\Projects\Excel\Excel\obj\x86\Debug\Excel.csproj.GenerateResource.Cache
+D:\CRIAÇÕES DE PROGRAMAS\Excel\Excel\bin\Debug\Excel.exe
+D:\CRIAÇÕES DE PROGRAMAS\Excel\Excel\bin\Debug\Excel.pdb
+D:\CRIAÇÕES DE PROGRAMAS\Excel\Excel\obj\x86\Debug\Excel.csprojAssemblyReference.cache
+D:\CRIAÇÕES DE PROGRAMAS\Excel\Excel\obj\x86\Debug\Excel.FormExcel.resources
+D:\CRIAÇÕES DE PROGRAMAS\Excel\Excel\obj\x86\Debug\Excel.Properties.Resources.resources
+D:\CRIAÇÕES DE PROGRAMAS\Excel\Excel\obj\x86\Debug\Excel.csproj.GenerateResource.cache
+D:\CRIAÇÕES DE PROGRAMAS\Excel\Excel\obj\x86\Debug\Excel.csproj.CoreCompileInputs.cache
+D:\CRIAÇÕES DE PROGRAMAS\Excel\Excel\obj\x86\Debug\Excel.exe
+D:\CRIAÇÕES DE PROGRAMAS\Excel\Excel\obj\x86\Debug\Excel.pdb
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Excel\Excel\obj\x86\Debug\Excel.exe
+D:\CRIAÇÕES DE PROGRAMAS\2018\03 - Em Teste\Excel\Excel\obj\x86\Debug\Excel.pdb
